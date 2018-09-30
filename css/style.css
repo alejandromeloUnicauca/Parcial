@@ -1,0 +1,19 @@
+hr{ 
+  
+    border:         none;
+    border-left:    1px solid #fff;
+    height:         350px;
+    width:          100%;       
+}
+body{
+    text-align:center; 
+    color: white;
+    background: url(../BACKGround_1280x1024.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;  
+}
+
+div{
+    padding: 2%;
+}
